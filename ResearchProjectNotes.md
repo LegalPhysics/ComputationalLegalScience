@@ -1,5 +1,4 @@
 
-
 How can system dynamics and agent based modeling be combined to evaluate legal systems? 
 
 ## Brainstorming:
@@ -23,3 +22,15 @@ Legal System Properties: (may be direct structural properties or actual paramete
  Legal System Inputs and Outputs:
  * Demographic / census data (captures some economic data/sociological/age, etc)
  * Crime Rates and Drug Use (Blight on Society (crack houses, homeless, secondary crimes, etc) 
+
+# Next Actions:
+
+## Lit Review
+
+## Collecting relevant data sets
+
+* Statutory likely to be more structural... 
+* Judicial data - likely to be more parametric 
+* Sentencing data and BJS data another source to be examned.  
+
+## Next meeting with Ankur: review the data sets and context we learned and **develop the model together.** 

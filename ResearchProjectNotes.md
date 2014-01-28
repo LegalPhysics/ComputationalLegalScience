@@ -1,4 +1,3 @@
-
 How can system dynamics and agent based modeling be combined to evaluate legal systems? 
 
 # Brainstorming:
@@ -11,7 +10,14 @@ We can choose a formal partial model of the legal system (marginalizing the fact
 
 # Potential Computational Research Study Candidates
 
-## Model of Social Topologies and Communications-Based Network Map of Legal Systems 
+## Research Study on Communication Patterns in Law Making Organizations (ie Honest Signals in Legal Systems)
+
+**Note** Ray Campbell is currently iterating a proposed research study proposal for this idea.
+
+Brainstorm notes: 
+
+
+This is a type of: Model of Social Topologies and Communications-Based Network Map of Legal Systems 
 
 * Using email logs for mail traffic between agencies in gov't
 
@@ -28,6 +34,7 @@ We can send pub records request to (ITD?) for email records over time?
 
 Get statutory auth of each agency and get the "political appointees" on org 
 
+* Result is a visualization: The data vis is expected to show something akin to the graphic of social communication diagram of the patterns of bank employees. 
 
 ## Bankruptcy Model 
 
